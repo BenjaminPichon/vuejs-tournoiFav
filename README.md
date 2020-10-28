@@ -1,24 +1,2 @@
-# vuejs-tournoifav
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Bienvenu sur le projet Vue d'une page d'accueil de site de tournoi !
+Ici vous pouvez consulter les différents tournois present sur le site et en mettre certain en favoris et participer a d'autre ! 
