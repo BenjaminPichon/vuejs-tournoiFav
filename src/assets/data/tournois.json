@@ -1,0 +1,28 @@
+{
+    "tournois":[
+        {
+            "nom": "Dominion For Honor Tournament",
+            "description": "Quelle équipe sera la plus forte en dominion, qui capturera les zones le plus efficacement, qui tueras le plus de minions, qui ecrasera les autres equipes ? Venez regardez pour le savoir ! Et si vous vous en sentez capable inscrivez vous pour remporter nos prix",
+            "jeu": "For Honor",
+            "type": "En équipe",
+            "equipe": "4",
+            "prix": "500 euros pour la meilleur equipe"
+        },
+        {
+            "nom": "Rixe For Honor Tournament",
+            "description": "Quel duo va ecraser les autres, quelle duo sera le meilleur de tous ? Venez regarder pour le savoir et si vous vous sentez de taille participez avec un de vos amis qui sait vous remporterais peut etre la victoire",
+            "jeu": "For Honor",
+            "type": "En équipe",
+            "equipe": "2",
+            "prix": "500 euros pour la meilleur Duo"
+        },
+        {
+            "nom": "Duel For Honor Tournament",
+            "description": "Qui est le meilleur joueur, qui peut vaincre n'importe quel ennemi ? Venez regarder ce tournoi ou participez y et vous le découvrirais !",
+            "jeu": "For Honor",
+            "type": "En solo",
+            "equipe": "1",
+            "prix": "500 euros pour le meilleur joueur"
+        }
+    ]
+}
